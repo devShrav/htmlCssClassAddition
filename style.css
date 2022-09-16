@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+.page-header li,
+.page-footer li {
+  list-style: none;
+}
+
+body  {
+  height: 100%;
+}
+
+.page-header,
+.page-footer {
+  margin: 0 auto;
+  width: 50%;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.page-header {
+  height: 10%;
+}
+
+.page-footer {
+  height: 10%;
+}
+
+main {
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.bold-text {
+  font-weight: bold;
+  font-size: large;
+}

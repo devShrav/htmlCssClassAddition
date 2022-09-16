@@ -1,2 +1,2 @@
-# htmlCssClassAddition
-A POC on how to highlight the current page in the navbar link based on the current page's filename
+# HTMLInjection
+Adding header and footer into multiple pages from a partial header and footer files using JS
